@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-Gooye-Q",
-  "commit": "241acb87f9392afa61eeae1b833f3cc9e7271c74",
-  "score": 32,
+  "commit": "ee227dc3ed07a18a2284bd1c91fb06b656c9c142",
+  "score": 33,
   "totalScore": 110,
   "exercises": [
     {
@@ -233,9 +233,9 @@
     {
       "name": "structs3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "Gooye-Q",
-  "runId": "37878541377",
+  "runId": "37879162828",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
